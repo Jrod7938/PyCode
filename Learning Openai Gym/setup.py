@@ -1,3 +1,13 @@
+#comands used in terminal for M1 Mac 
+#bash Miniforge3-MacOSX-arm64.sh
+#conda config --set auto_activate_base false
+#conda create --name ai 
+#conda activate ai 
+#conda install conda-forge::tensorflow 
+#conda install -c conda-forge gym-all 
+#pip3 install keras 
+#pip3 install keras-rl2
+
 import gym
 import random
 
