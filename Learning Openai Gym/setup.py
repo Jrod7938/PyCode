@@ -24,7 +24,7 @@ def Random_games():
             next_state, reward, done, info = env.step(action)
 
             # lets print everything in one line:
-            print(t, next_state, reward, done, info = env.step(action))
+            print(t, next_state, reward, done, info, action)
             if done:
                 break
 
