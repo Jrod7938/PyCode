@@ -7,6 +7,8 @@
 #conda install -c conda-forge gym-all 
 #pip3 install keras 
 #pip3 install keras-rl2
+#pip3 install torch torchvision torchaudio
+#pip3 install 'stable-baselines3[extra]'
 
 import gym
 import random
